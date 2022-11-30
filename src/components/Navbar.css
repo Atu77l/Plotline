@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    flex-direction: horizontal;
+    background-color: black;
+    color: white;
+    height:35px;
+}
+.word{
+    padding-left:30px;
+    padding-top:5px;
+    width:25px;
+}
